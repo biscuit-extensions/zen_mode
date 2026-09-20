@@ -1,0 +1,7 @@
+[extension]
+id = "zen_mode"
+name = "Zen Mode"
+version = "0.1.0"
+description = "Zen Mode extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
